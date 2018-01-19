@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 4.0.4.1
--- http://www.phpmyadmin.net
---
--- Host: 127.0.0.1
--- Generation Time: Nov 22, 2014 at 12:48 PM
--- Server version: 5.5.32
--- PHP Version: 5.4.19
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -17,7 +10,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `phppot_examples`
+-
 --
 
 -- --------------------------------------------------------
